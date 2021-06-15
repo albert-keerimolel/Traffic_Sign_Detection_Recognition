@@ -17,9 +17,13 @@ step 6: run the detection_on_each.py file to do the detection part (you will get
         
 step 7: run the gui.py file to upload multiple input traffic sign images and to get their output
 
+
+
 OR
 
+
 steps to run the code using already trained model:
+
 step 1: you can just run the gui.py file after downloading everything as I have also uploaded the trained models pca.pkl and svm.pkl so you can directly use them to refer
 
 Technology used:
