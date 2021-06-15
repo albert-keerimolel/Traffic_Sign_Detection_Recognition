@@ -1,6 +1,7 @@
 # Traffic_Sign_Detection_Recognition
 
 Steps to train the model and run the code:
+
 step 1: download the repository
 
 step 2: install required libraries given in code
@@ -19,7 +20,6 @@ step 7: run the gui.py file to upload multiple input traffic sign images and to 
 OR
 
 steps to run the code using already trained model:
-
 step 1: you can just run the gui.py file after downloading everything as I have also uploaded the trained models pca.pkl and svm.pkl so you can directly use them to refer
 
 Technology used:
